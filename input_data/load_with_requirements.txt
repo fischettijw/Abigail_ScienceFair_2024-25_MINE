@@ -1,0 +1,12 @@
+Install the Modules:
+
+Once you're in your project directory (and your virtual environment, if you're using one),
+run the following command to install all the modules listed in requirements.txt:
+
+pip install -r requirements.txt
+
+This will ensure that all the modules specified in your requirements.txt are installed
+in your current Python environment, whether it’s new or existing.
+
+
+MAYBE:    pip3.12  or pip3.11

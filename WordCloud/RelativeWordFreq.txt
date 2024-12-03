@@ -1,0 +1,200 @@
+Word: sky                Frequency:  1.00000000000000000000
+Word: saw                Frequency:  0.42975335622853572115
+Word: white light        Frequency:  0.32508585700905401339
+Word: bright light       Frequency:  0.31244146113019044542
+Word: orange light       Frequency:  0.26412738058070556191
+Word: UFO                Frequency:  0.24313143927567903990
+Word: red light          Frequency:  0.23321885732126132473
+Word: one                Frequency:  0.21612550733687169169
+Word: object             Frequency:  0.20020293474867312256
+Word: shaped object      Frequency:  0.19879800187324384031
+Word: star               Frequency:  0.19731501717140181862
+Word: looked             Frequency:  0.19122697471120825297
+Word: anonymous report   Frequency:  0.18982204183577897072
+Word: light              Frequency:  0.17428972837964407105
+Word: sound              Frequency:  0.17382141742116766214
+Word: seen               Frequency:  0.17327505463627848603
+Word: formation          Frequency:  0.17085544801748361876
+Word: night sky          Frequency:  0.17046518888541992154
+Word: Two                Frequency:  0.16148922884795505195
+Word: bright white       Frequency:  0.15813300031220731134
+Word: hovering           Frequency:  0.15040586949734624511
+Word: west               Frequency:  0.14915704027474244175
+Word: disappeared        Frequency:  0.14837652201061504731
+Word: east               Frequency:  0.14103965032781767830
+Word: north              Frequency:  0.14049328754292850219
+Word: bright orange      Frequency:  0.12964408367155791368
+Word: south              Frequency:  0.12784889166406493421
+Word: craft              Frequency:  0.12269747112082422802
+Word: fireball           Frequency:  0.12160474555104588967
+Word: near               Frequency:  0.11684358413986886682
+Word: appeared           Frequency:  0.11676553231345614126
+Word: fast               Frequency:  0.11629722135497970459
+Word: cloud              Frequency:  0.11364345925694661898
+Word: around             Frequency:  0.11184826724945363952
+Word: second             Frequency:  0.11114580081173899839
+Word: noticed            Frequency:  0.11013112706837339949
+Word: sighting           Frequency:  0.10880424601935685669
+Word: ball               Frequency:  0.10841398688729315947
+Word: minute             Frequency:  0.10685295035903839833
+Word: flying             Frequency:  0.10185763346862317102
+Word: large              Frequency:  0.10177958164221043158
+Word: flashing light     Frequency:  0.10170152981579769214
+Word: observed           Frequency:  0.09881361223852638820
+Word: plane              Frequency:  0.09865750858570090931
+Word: house              Frequency:  0.09459881361223852758
+Word: moving             Frequency:  0.09389634717452388646
+Word: speed              Frequency:  0.09319388073680924534
+Word: small              Frequency:  0.09233531064626912532
+Word: moved              Frequency:  0.09147674055572900531
+Word: green light        Frequency:  0.09132063690290352642
+Word: time               Frequency:  0.09124258507649078698
+Word: see                Frequency:  0.09116453325007804753
+Word: area               Frequency:  0.08929128941617234250
+Word: shaped craft       Frequency:  0.08819856384639400415
+Word: side               Frequency:  0.08718389010302840525
+Word: circle             Frequency:  0.08367155791445519963
+Word: went               Frequency:  0.08304714330315329796
+Word: lights moving      Frequency:  0.08172026225413674128
+Word: color              Frequency:  0.08093974399000936071
+Word: ground             Frequency:  0.08086169216359662126
+Word: light moving       Frequency:  0.08078364033718389570
+Word: low                Frequency:  0.08000312207305651513
+Word: disappear          Frequency:  0.07992507024664377568
+Word: Strange            Frequency:  0.07976896659381829680
+Word: triangle           Frequency:  0.07891039650327817678
+Word: looking            Frequency:  0.07867624102403995845
+Word: witnessed          Frequency:  0.07844208554480175399
+Word: three              Frequency:  0.07812987823915079622
+Word: orange orb         Frequency:  0.07742741180143615509
+Word: move               Frequency:  0.07711520449578519731
+Word: silent             Frequency:  0.07703715266937245787
+Word: night              Frequency:  0.07625663440524507730
+Word: aircraft           Frequency:  0.07625663440524507730
+Word: stationary         Frequency:  0.07516390883546675283
+Word: HOAX               Frequency:  0.07446144239775211171
+Word: blue light         Frequency:  0.07430533874492663282
+Word: floating           Frequency:  0.07297845769591009002
+Word: right              Frequency:  0.07204183577895723056
+Word: driving            Frequency:  0.07149547299406805445
+Word: shape              Frequency:  0.07032469559787699054
+Word: hovered            Frequency:  0.06970028098657508886
+Word: look               Frequency:  0.06970028098657508886
+Word: high               Frequency:  0.06931002185451139164
+Word: left               Frequency:  0.06774898532625663050
+Word: going              Frequency:  0.06759288167343115161
+Word: spotted            Frequency:  0.06704651888854198938
+Word: red orange         Frequency:  0.06681236340930377104
+Word: noise              Frequency:  0.06650015610365282714
+Word: orb                Frequency:  0.06595379331876366491
+Word: u                  Frequency:  0.06587574149235092547
+Word: horizon            Frequency:  0.06470496409615984768
+Word: first              Frequency:  0.06400249765844520655
+Word: flew               Frequency:  0.06400249765844520655
+Word: thought            Frequency:  0.06376834217920698822
+Word: bright red         Frequency:  0.06353418669996878376
+Word: disappearing       Frequency:  0.06205120199812675513
+Word: slow moving        Frequency:  0.06103652825476116317
+Word: cigar shaped       Frequency:  0.06080237277552294484
+Word: w                  Frequency:  0.06009990633780830371
+Word: slowly             Frequency:  0.05955354355291914148
+Word: back               Frequency:  0.05900718076802997231
+Word: sphere             Frequency:  0.05892912894161723286
+Word: fast moving        Frequency:  0.05830471433031533118
+Word: outside            Frequency:  0.05822666250390259174
+Word: fire               Frequency:  0.05775835154542616201
+Word: dark               Frequency:  0.05752419606618795062
+Word: huge               Frequency:  0.05729004058694973228
+Word: car                Frequency:  0.05697783328129878144
+Word: toward             Frequency:  0.05682172962847330949
+Word: seemed             Frequency:  0.05658757414923509116
+Word: friend             Frequency:  0.05643147049640961921
+Word: came               Frequency:  0.05643147049640961921
+Word: moon               Frequency:  0.05604121136434592892
+Word: made               Frequency:  0.05596315953793318948
+Word: size               Frequency:  0.05518264127380580891
+Word: orange ball        Frequency:  0.05518264127380580891
+Word: flash              Frequency:  0.05494848579456759058
+Word: moving slowly      Frequency:  0.05440212300967842834
+Word: flying object      Frequency:  0.05416796753044021001
+Word: followed           Frequency:  0.05346550109272556889
+Word: lights seen        Frequency:  0.05338744926631282944
+Word: across sky         Frequency:  0.05330939743990009694
+Word: direction          Frequency:  0.05159225725881985691
+Word: close              Frequency:  0.05135810177958164552
+Word: big                Frequency:  0.05104589447393068774
+Word: pm                 Frequency:  0.05010927255697783522
+Word: MADAR Node         Frequency:  0.04971901342491414494
+Word: orange red         Frequency:  0.04917265064002497577
+Word: slow               Frequency:  0.04893849516078676437
+Word: hour               Frequency:  0.04893849516078676437
+Word: airplane           Frequency:  0.04886044333437402493
+Word: line               Frequency:  0.04878239150796128548
+Word: UFO sighting       Frequency:  0.04839213237589759520
+Word: S                  Frequency:  0.04831408054948485575
+Word: triangle shaped    Frequency:  0.04831408054948485575
+Word: front              Frequency:  0.04823602872307212325
+Word: vanished           Frequency:  0.04823602872307212325
+Word: orange fireball    Frequency:  0.04784576959100843296
+Word: object moving      Frequency:  0.04761161411177021463
+Word: Lake               Frequency:  0.04753356228535747519
+Word: blinking light     Frequency:  0.04753356228535747519
+Word: window             Frequency:  0.04698719950046831295
+Word: object seen        Frequency:  0.04690914767405557351
+Word: stopped            Frequency:  0.04644083671557914378
+Word: feet               Frequency:  0.04581642210427724210
+Word: Strange light      Frequency:  0.04581642210427724210
+Word: low flying         Frequency:  0.04550421479862629126
+Word: tree               Frequency:  0.04511395566656260098
+Word: quickly            Frequency:  0.04464564470808617125
+Word: appear             Frequency:  0.04441148922884795291
+Word: moving across      Frequency:  0.04409928192319700208
+Word: Four               Frequency:  0.04402123009678426263
+Word: mountain           Frequency:  0.04386512644395879068
+Word: photo              Frequency:  0.04331876365906962151
+Word: trail              Frequency:  0.04300655635341867067
+Word: coming             Frequency:  0.04277240087418045927
+Word: turned             Frequency:  0.04238214174211676899
+Word: home               Frequency:  0.04214798626287855066
+Word: shaped UFO         Frequency:  0.04199188261005307871
+Word: circular object    Frequency:  0.04167967530440212093
+Word: several            Frequency:  0.04136746799875117009
+Word: took               Frequency:  0.04128941617233843064
+Word: picture            Frequency:  0.04097720886668747980
+Word: hover              Frequency:  0.04082110521386200092
+Word: orange sphere      Frequency:  0.04082110521386200092
+Word: wife               Frequency:  0.04066500156103652897
+Word: sitting            Frequency:  0.04043084608179831063
+Word: high speed         Frequency:  0.04035279425538557813
+Word: fly                Frequency:  0.04027474242897283868
+Word: straight line      Frequency:  0.04019669060256009924
+Word: light seen         Frequency:  0.04019669060256009924
+Word: lights hovering    Frequency:  0.04004058694973462035
+Word: way                Frequency:  0.03996253512332188784
+Word: center             Frequency:  0.03988448329690914840
+Word: min                Frequency:  0.03933812051201997922
+Word: bright object      Frequency:  0.03933812051201997922
+Word: point              Frequency:  0.03910396503278176783
+Word: bottom             Frequency:  0.03894786137995628894
+Word: video              Frequency:  0.03879175772713081699
+Word: ocean              Frequency:  0.03863565407430533810
+Word: jet                Frequency:  0.03863565407430533810
+Word: orange glowing     Frequency:  0.03855760224789259866
+Word: road               Frequency:  0.03847955042147985921
+Word: helicopter         Frequency:  0.03816734311582890837
+Word: lights flying      Frequency:  0.03808929128941616893
+Word: day                Frequency:  0.03793318763659069698
+Word: pattern            Frequency:  0.03754292850452700669
+Word: almost             Frequency:  0.03730877302528878836
+Word: distance           Frequency:  0.03707461754605057697
+Word: N                  Frequency:  0.03707461754605057697
+Word: Multiple           Frequency:  0.03707461754605057697
+Word: long               Frequency:  0.03699656571963783752
+Word: suddenly           Frequency:  0.03699656571963783752
+Word: away               Frequency:  0.03684046206681236557
+Word: tail               Frequency:  0.03684046206681236557
+Word: colored light      Frequency:  0.03684046206681236557
+Word: top                Frequency:  0.03676241024039962613
+Word: air                Frequency:  0.03613799562909771751
+Word: another            Frequency:  0.03590384014985950611
+Word: CA                 Frequency:  0.03582578832344676667

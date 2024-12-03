@@ -1,0 +1,203 @@
+ 
+
+{'sky': 1.0, 'saw': 0.4297533562285357, 'white light': 0.325085857009054, 'bright light': 0.31244146113019045, 'orange light': 0.26412738058070556, 'UFO': 0.24313143927567904, 'red light': 0.23321885732126132, 'one': 0.2161255073368717, 'object': 0.20020293474867312, 'shaped object': 0.19879800187324384, 'star': 0.19731501717140182, 'looked': 0.19122697471120825, 'anonymous report': 0.18982204183577897, 'light': 0.17428972837964407, 'sound': 0.17382141742116766, 'seen': 0.17327505463627849, 'formation': 0.17085544801748362, 'night sky': 0.17046518888541992, 'Two': 0.16148922884795505, 'bright white': 0.1581330003122073, 'hovering': 0.15040586949734625, 'west': 0.14915704027474244, 'disappeared': 0.14837652201061505, 'east': 0.14103965032781768, 'north': 0.1404932875429285, 'bright orange': 0.1296440836715579, 'south': 0.12784889166406493, 'craft': 0.12269747112082423, 'fireball': 0.12160474555104589, 'near': 0.11684358413986887, 'appeared': 0.11676553231345614, 'fast': 0.1162972213549797, 'cloud': 0.11364345925694662, 'around': 0.11184826724945364, 'second': 0.111145800811739, 'noticed': 0.1101311270683734, 'sighting': 0.10880424601935686, 'ball': 0.10841398688729316, 'minute': 0.1068529503590384, 'flying': 0.10185763346862317, 'large': 0.10177958164221043, 'flashing light': 0.10170152981579769, 'observed': 0.09881361223852639, 'plane': 0.09865750858570091, 'house': 0.09459881361223853, 'moving': 0.09389634717452389, 'speed': 0.09319388073680925, 'small': 0.09233531064626913, 'moved': 0.091476740555729, 'green light': 0.09132063690290353, 'time': 0.09124258507649079, 'see': 0.09116453325007805, 'area': 0.08929128941617234, 'shaped craft': 0.088198563846394, 'side': 0.0871838901030284, 'circle': 0.0836715579144552, 'went': 0.0830471433031533, 'lights moving': 0.08172026225413674, 'color': 0.08093974399000936, 'ground': 0.08086169216359662, 'light moving': 0.0807836403371839, 'low': 0.08000312207305652, 'disappear': 0.07992507024664378, 'Strange': 0.0797689665938183, 'triangle': 0.07891039650327818, 'looking': 0.07867624102403996, 'witnessed': 0.07844208554480175, 'three': 0.0781298782391508, 'orange orb': 0.07742741180143616, 'move': 0.0771152044957852, 'silent': 0.07703715266937246, 'night': 0.07625663440524508, 'aircraft': 0.07625663440524508, 'stationary': 0.07516390883546675, 'HOAX': 0.07446144239775211, 'blue light': 0.07430533874492663, 'floating': 0.07297845769591009, 'right': 0.07204183577895723, 'driving': 0.07149547299406805, 'shape': 0.07032469559787699, 'hovered': 0.06970028098657509, 'look': 0.06970028098657509, 'high': 0.06931002185451139, 'left': 0.06774898532625663, 'going': 0.06759288167343115, 'spotted': 0.06704651888854199, 'red orange': 0.06681236340930377, 'noise': 0.06650015610365283, 'orb': 0.06595379331876366, 'u': 0.06587574149235093, 'horizon': 0.06470496409615985, 'first': 0.0640024976584452, 'flew': 0.0640024976584452, 'thought': 0.06376834217920699, 'bright red': 0.06353418669996878, 'disappearing': 0.062051201998126755, 'slow moving': 0.06103652825476116, 'cigar shaped': 0.060802372775522945, 'w': 0.060099906337808304, 'slowly': 0.05955354355291914, 'back': 0.05900718076802997, 'sphere': 0.05892912894161723, 'fast moving': 0.05830471433031533, 'outside': 0.05822666250390259, 'fire': 0.05775835154542616, 'dark': 0.05752419606618795, 'huge': 0.05729004058694973, 'car': 0.05697783328129878, 'toward': 0.05682172962847331, 'seemed': 0.05658757414923509, 'friend': 0.05643147049640962, 'came': 0.05643147049640962, 'moon': 0.05604121136434593, 'made': 0.05596315953793319, 'size': 0.05518264127380581, 'orange ball': 0.05518264127380581, 'flash': 0.05494848579456759, 'moving slowly': 0.05440212300967843, 'flying object': 0.05416796753044021, 'followed': 0.05346550109272557, 'lights seen': 0.05338744926631283, 'across sky': 0.0533093974399001, 'direction': 0.05159225725881986, 'close': 0.051358101779581646, 'big': 0.05104589447393069, 'pm': 0.050109272556977835, 'MADAR Node': 0.049719013424914145, 'orange red': 0.049172650640024976, 'slow': 0.048938495160786764, 'hour': 0.048938495160786764, 'airplane': 0.048860443334374025, 'line': 0.048782391507961285, 'UFO sighting': 0.048392132375897595, 'S': 0.048314080549484856, 'triangle shaped': 0.048314080549484856, 'front': 0.04823602872307212, 'vanished': 0.04823602872307212, 'orange fireball': 0.04784576959100843, 'object moving': 0.047611614111770215, 'Lake': 0.047533562285357475, 'blinking light': 0.047533562285357475, 'window': 0.04698719950046831, 'object seen': 0.046909147674055574, 'stopped': 0.046440836715579144, 'feet': 0.04581642210427724, 'Strange light': 0.04581642210427724, 'low flying': 0.04550421479862629, 'tree': 0.0451139556665626, 'quickly': 0.04464564470808617, 'appear': 0.04441148922884795, 'moving across': 0.044099281923197, 'Four': 0.04402123009678426, 'mountain': 0.04386512644395879, 'photo': 0.04331876365906962, 'trail': 0.04300655635341867, 'coming': 0.04277240087418046, 'turned': 0.04238214174211677, 'home': 0.04214798626287855, 'shaped UFO': 0.04199188261005308, 'circular object': 0.04167967530440212, 'several': 0.04136746799875117, 'took': 0.04128941617233843, 'picture': 0.04097720886668748, 'hover': 0.040821105213862, 'orange sphere': 0.040821105213862, 'wife': 0.04066500156103653, 'sitting': 0.04043084608179831, 'high speed': 0.04035279425538558, 'fly': 0.04027474242897284, 'straight line': 0.0401966906025601, 'light seen': 0.0401966906025601, 'lights hovering': 0.04004058694973462, 'way': 0.03996253512332189, 'center': 0.03988448329690915, 'min': 0.03933812051201998, 'bright object': 0.03933812051201998, 'point': 0.03910396503278177, 'bottom': 0.03894786137995629, 'video': 0.03879175772713082, 'ocean': 0.03863565407430534, 'jet': 0.03863565407430534, 'orange glowing': 0.0385576022478926, 'road': 0.03847955042147986, 'helicopter': 0.03816734311582891, 'lights flying': 0.03808929128941617, 'day': 0.0379331876365907, 'pattern': 0.03754292850452701, 'almost': 0.03730877302528879, 'distance': 0.03707461754605058, 'N': 0.03707461754605058, 'Multiple': 0.03707461754605058, 'long': 0.03699656571963784, 'suddenly': 0.03699656571963784, 'away': 0.036840462066812366, 'tail': 0.036840462066812366, 'colored light': 0.036840462066812366, 'top': 0.036762410240399626, 'air': 0.03613799562909772, 'another': 0.035903840149859506, 'CA': 0.03582578832344677}
+Word: sky                Relative Frequency ... Size:  1.00000000000000000000
+Word: saw                Relative Frequency ... Size:  0.42975335622853572115
+Word: white light        Relative Frequency ... Size:  0.32508585700905401339
+Word: bright light       Relative Frequency ... Size:  0.31244146113019044542
+Word: orange light       Relative Frequency ... Size:  0.26412738058070556191
+Word: UFO                Relative Frequency ... Size:  0.24313143927567903990
+Word: red light          Relative Frequency ... Size:  0.23321885732126132473
+Word: one                Relative Frequency ... Size:  0.21612550733687169169
+Word: object             Relative Frequency ... Size:  0.20020293474867312256
+Word: shaped object      Relative Frequency ... Size:  0.19879800187324384031
+Word: star               Relative Frequency ... Size:  0.19731501717140181862
+Word: looked             Relative Frequency ... Size:  0.19122697471120825297
+Word: anonymous report   Relative Frequency ... Size:  0.18982204183577897072
+Word: light              Relative Frequency ... Size:  0.17428972837964407105
+Word: sound              Relative Frequency ... Size:  0.17382141742116766214
+Word: seen               Relative Frequency ... Size:  0.17327505463627848603
+Word: formation          Relative Frequency ... Size:  0.17085544801748361876
+Word: night sky          Relative Frequency ... Size:  0.17046518888541992154
+Word: Two                Relative Frequency ... Size:  0.16148922884795505195
+Word: bright white       Relative Frequency ... Size:  0.15813300031220731134
+Word: hovering           Relative Frequency ... Size:  0.15040586949734624511
+Word: west               Relative Frequency ... Size:  0.14915704027474244175
+Word: disappeared        Relative Frequency ... Size:  0.14837652201061504731
+Word: east               Relative Frequency ... Size:  0.14103965032781767830
+Word: north              Relative Frequency ... Size:  0.14049328754292850219
+Word: bright orange      Relative Frequency ... Size:  0.12964408367155791368
+Word: south              Relative Frequency ... Size:  0.12784889166406493421
+Word: craft              Relative Frequency ... Size:  0.12269747112082422802
+Word: fireball           Relative Frequency ... Size:  0.12160474555104588967
+Word: near               Relative Frequency ... Size:  0.11684358413986886682
+Word: appeared           Relative Frequency ... Size:  0.11676553231345614126
+Word: fast               Relative Frequency ... Size:  0.11629722135497970459
+Word: cloud              Relative Frequency ... Size:  0.11364345925694661898
+Word: around             Relative Frequency ... Size:  0.11184826724945363952
+Word: second             Relative Frequency ... Size:  0.11114580081173899839
+Word: noticed            Relative Frequency ... Size:  0.11013112706837339949
+Word: sighting           Relative Frequency ... Size:  0.10880424601935685669
+Word: ball               Relative Frequency ... Size:  0.10841398688729315947
+Word: minute             Relative Frequency ... Size:  0.10685295035903839833
+Word: flying             Relative Frequency ... Size:  0.10185763346862317102
+Word: large              Relative Frequency ... Size:  0.10177958164221043158
+Word: flashing light     Relative Frequency ... Size:  0.10170152981579769214
+Word: observed           Relative Frequency ... Size:  0.09881361223852638820
+Word: plane              Relative Frequency ... Size:  0.09865750858570090931
+Word: house              Relative Frequency ... Size:  0.09459881361223852758
+Word: moving             Relative Frequency ... Size:  0.09389634717452388646
+Word: speed              Relative Frequency ... Size:  0.09319388073680924534
+Word: small              Relative Frequency ... Size:  0.09233531064626912532
+Word: moved              Relative Frequency ... Size:  0.09147674055572900531
+Word: green light        Relative Frequency ... Size:  0.09132063690290352642
+Word: time               Relative Frequency ... Size:  0.09124258507649078698
+Word: see                Relative Frequency ... Size:  0.09116453325007804753
+Word: area               Relative Frequency ... Size:  0.08929128941617234250
+Word: shaped craft       Relative Frequency ... Size:  0.08819856384639400415
+Word: side               Relative Frequency ... Size:  0.08718389010302840525
+Word: circle             Relative Frequency ... Size:  0.08367155791445519963
+Word: went               Relative Frequency ... Size:  0.08304714330315329796
+Word: lights moving      Relative Frequency ... Size:  0.08172026225413674128
+Word: color              Relative Frequency ... Size:  0.08093974399000936071
+Word: ground             Relative Frequency ... Size:  0.08086169216359662126
+Word: light moving       Relative Frequency ... Size:  0.08078364033718389570
+Word: low                Relative Frequency ... Size:  0.08000312207305651513
+Word: disappear          Relative Frequency ... Size:  0.07992507024664377568
+Word: Strange            Relative Frequency ... Size:  0.07976896659381829680
+Word: triangle           Relative Frequency ... Size:  0.07891039650327817678
+Word: looking            Relative Frequency ... Size:  0.07867624102403995845
+Word: witnessed          Relative Frequency ... Size:  0.07844208554480175399
+Word: three              Relative Frequency ... Size:  0.07812987823915079622
+Word: orange orb         Relative Frequency ... Size:  0.07742741180143615509
+Word: move               Relative Frequency ... Size:  0.07711520449578519731
+Word: silent             Relative Frequency ... Size:  0.07703715266937245787
+Word: night              Relative Frequency ... Size:  0.07625663440524507730
+Word: aircraft           Relative Frequency ... Size:  0.07625663440524507730
+Word: stationary         Relative Frequency ... Size:  0.07516390883546675283
+Word: HOAX               Relative Frequency ... Size:  0.07446144239775211171
+Word: blue light         Relative Frequency ... Size:  0.07430533874492663282
+Word: floating           Relative Frequency ... Size:  0.07297845769591009002
+Word: right              Relative Frequency ... Size:  0.07204183577895723056
+Word: driving            Relative Frequency ... Size:  0.07149547299406805445
+Word: shape              Relative Frequency ... Size:  0.07032469559787699054
+Word: hovered            Relative Frequency ... Size:  0.06970028098657508886
+Word: look               Relative Frequency ... Size:  0.06970028098657508886
+Word: high               Relative Frequency ... Size:  0.06931002185451139164
+Word: left               Relative Frequency ... Size:  0.06774898532625663050
+Word: going              Relative Frequency ... Size:  0.06759288167343115161
+Word: spotted            Relative Frequency ... Size:  0.06704651888854198938
+Word: red orange         Relative Frequency ... Size:  0.06681236340930377104
+Word: noise              Relative Frequency ... Size:  0.06650015610365282714
+Word: orb                Relative Frequency ... Size:  0.06595379331876366491
+Word: u                  Relative Frequency ... Size:  0.06587574149235092547
+Word: horizon            Relative Frequency ... Size:  0.06470496409615984768
+Word: first              Relative Frequency ... Size:  0.06400249765844520655
+Word: flew               Relative Frequency ... Size:  0.06400249765844520655
+Word: thought            Relative Frequency ... Size:  0.06376834217920698822
+Word: bright red         Relative Frequency ... Size:  0.06353418669996878376
+Word: disappearing       Relative Frequency ... Size:  0.06205120199812675513
+Word: slow moving        Relative Frequency ... Size:  0.06103652825476116317
+Word: cigar shaped       Relative Frequency ... Size:  0.06080237277552294484
+Word: w                  Relative Frequency ... Size:  0.06009990633780830371
+Word: slowly             Relative Frequency ... Size:  0.05955354355291914148
+Word: back               Relative Frequency ... Size:  0.05900718076802997231
+Word: sphere             Relative Frequency ... Size:  0.05892912894161723286
+Word: fast moving        Relative Frequency ... Size:  0.05830471433031533118
+Word: outside            Relative Frequency ... Size:  0.05822666250390259174
+Word: fire               Relative Frequency ... Size:  0.05775835154542616201
+Word: dark               Relative Frequency ... Size:  0.05752419606618795062
+Word: huge               Relative Frequency ... Size:  0.05729004058694973228
+Word: car                Relative Frequency ... Size:  0.05697783328129878144
+Word: toward             Relative Frequency ... Size:  0.05682172962847330949
+Word: seemed             Relative Frequency ... Size:  0.05658757414923509116
+Word: friend             Relative Frequency ... Size:  0.05643147049640961921
+Word: came               Relative Frequency ... Size:  0.05643147049640961921
+Word: moon               Relative Frequency ... Size:  0.05604121136434592892
+Word: made               Relative Frequency ... Size:  0.05596315953793318948
+Word: size               Relative Frequency ... Size:  0.05518264127380580891
+Word: orange ball        Relative Frequency ... Size:  0.05518264127380580891
+Word: flash              Relative Frequency ... Size:  0.05494848579456759058
+Word: moving slowly      Relative Frequency ... Size:  0.05440212300967842834
+Word: flying object      Relative Frequency ... Size:  0.05416796753044021001
+Word: followed           Relative Frequency ... Size:  0.05346550109272556889
+Word: lights seen        Relative Frequency ... Size:  0.05338744926631282944
+Word: across sky         Relative Frequency ... Size:  0.05330939743990009694
+Word: direction          Relative Frequency ... Size:  0.05159225725881985691
+Word: close              Relative Frequency ... Size:  0.05135810177958164552
+Word: big                Relative Frequency ... Size:  0.05104589447393068774
+Word: pm                 Relative Frequency ... Size:  0.05010927255697783522
+Word: MADAR Node         Relative Frequency ... Size:  0.04971901342491414494
+Word: orange red         Relative Frequency ... Size:  0.04917265064002497577
+Word: slow               Relative Frequency ... Size:  0.04893849516078676437
+Word: hour               Relative Frequency ... Size:  0.04893849516078676437
+Word: airplane           Relative Frequency ... Size:  0.04886044333437402493
+Word: line               Relative Frequency ... Size:  0.04878239150796128548
+Word: UFO sighting       Relative Frequency ... Size:  0.04839213237589759520
+Word: S                  Relative Frequency ... Size:  0.04831408054948485575
+Word: triangle shaped    Relative Frequency ... Size:  0.04831408054948485575
+Word: front              Relative Frequency ... Size:  0.04823602872307212325
+Word: vanished           Relative Frequency ... Size:  0.04823602872307212325
+Word: orange fireball    Relative Frequency ... Size:  0.04784576959100843296
+Word: object moving      Relative Frequency ... Size:  0.04761161411177021463
+Word: Lake               Relative Frequency ... Size:  0.04753356228535747519
+Word: blinking light     Relative Frequency ... Size:  0.04753356228535747519
+Word: window             Relative Frequency ... Size:  0.04698719950046831295
+Word: object seen        Relative Frequency ... Size:  0.04690914767405557351
+Word: stopped            Relative Frequency ... Size:  0.04644083671557914378
+Word: feet               Relative Frequency ... Size:  0.04581642210427724210
+Word: Strange light      Relative Frequency ... Size:  0.04581642210427724210
+Word: low flying         Relative Frequency ... Size:  0.04550421479862629126
+Word: tree               Relative Frequency ... Size:  0.04511395566656260098
+Word: quickly            Relative Frequency ... Size:  0.04464564470808617125
+Word: appear             Relative Frequency ... Size:  0.04441148922884795291
+Word: moving across      Relative Frequency ... Size:  0.04409928192319700208
+Word: Four               Relative Frequency ... Size:  0.04402123009678426263
+Word: mountain           Relative Frequency ... Size:  0.04386512644395879068
+Word: photo              Relative Frequency ... Size:  0.04331876365906962151
+Word: trail              Relative Frequency ... Size:  0.04300655635341867067
+Word: coming             Relative Frequency ... Size:  0.04277240087418045927
+Word: turned             Relative Frequency ... Size:  0.04238214174211676899
+Word: home               Relative Frequency ... Size:  0.04214798626287855066
+Word: shaped UFO         Relative Frequency ... Size:  0.04199188261005307871
+Word: circular object    Relative Frequency ... Size:  0.04167967530440212093
+Word: several            Relative Frequency ... Size:  0.04136746799875117009
+Word: took               Relative Frequency ... Size:  0.04128941617233843064
+Word: picture            Relative Frequency ... Size:  0.04097720886668747980
+Word: hover              Relative Frequency ... Size:  0.04082110521386200092
+Word: orange sphere      Relative Frequency ... Size:  0.04082110521386200092
+Word: wife               Relative Frequency ... Size:  0.04066500156103652897
+Word: sitting            Relative Frequency ... Size:  0.04043084608179831063
+Word: high speed         Relative Frequency ... Size:  0.04035279425538557813
+Word: fly                Relative Frequency ... Size:  0.04027474242897283868
+Word: straight line      Relative Frequency ... Size:  0.04019669060256009924
+Word: light seen         Relative Frequency ... Size:  0.04019669060256009924
+Word: lights hovering    Relative Frequency ... Size:  0.04004058694973462035
+Word: way                Relative Frequency ... Size:  0.03996253512332188784
+Word: center             Relative Frequency ... Size:  0.03988448329690914840
+Word: min                Relative Frequency ... Size:  0.03933812051201997922
+Word: bright object      Relative Frequency ... Size:  0.03933812051201997922
+Word: point              Relative Frequency ... Size:  0.03910396503278176783
+Word: bottom             Relative Frequency ... Size:  0.03894786137995628894
+Word: video              Relative Frequency ... Size:  0.03879175772713081699
+Word: ocean              Relative Frequency ... Size:  0.03863565407430533810
+Word: jet                Relative Frequency ... Size:  0.03863565407430533810
+Word: orange glowing     Relative Frequency ... Size:  0.03855760224789259866
+Word: road               Relative Frequency ... Size:  0.03847955042147985921
+Word: helicopter         Relative Frequency ... Size:  0.03816734311582890837
+Word: lights flying      Relative Frequency ... Size:  0.03808929128941616893
+Word: day                Relative Frequency ... Size:  0.03793318763659069698
+Word: pattern            Relative Frequency ... Size:  0.03754292850452700669
+Word: almost             Relative Frequency ... Size:  0.03730877302528878836
+Word: distance           Relative Frequency ... Size:  0.03707461754605057697
+Word: N                  Relative Frequency ... Size:  0.03707461754605057697
+Word: Multiple           Relative Frequency ... Size:  0.03707461754605057697
+Word: long               Relative Frequency ... Size:  0.03699656571963783752
+Word: suddenly           Relative Frequency ... Size:  0.03699656571963783752
+Word: away               Relative Frequency ... Size:  0.03684046206681236557
+Word: tail               Relative Frequency ... Size:  0.03684046206681236557
+Word: colored light      Relative Frequency ... Size:  0.03684046206681236557
+Word: top                Relative Frequency ... Size:  0.03676241024039962613
+Word: air                Relative Frequency ... Size:  0.03613799562909771751
+Word: another            Relative Frequency ... Size:  0.03590384014985950611
+Word: CA                 Relative Frequency ... Size:  0.03582578832344676667
